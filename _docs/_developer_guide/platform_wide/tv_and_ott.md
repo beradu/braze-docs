@@ -1,7 +1,7 @@
 ---
 nav_title: TV and OTT Integrations
 page_order: 4
-
+page_type: reference
 description: "This article will give you details on Braze's TV and OTT features, integrations, available platforms, and other capabilities."
 platform:
     - roku
@@ -87,6 +87,12 @@ Below is a list of features and messaging channels supported today.
 </table>
 
 ## Integration Guides
+
+{% note alert %}
+
+When integrating TV and OTT applications, these applications must be a part of a seperate app group.
+
+{% endalert %}
 
 ### Amazon Fire TV
 
